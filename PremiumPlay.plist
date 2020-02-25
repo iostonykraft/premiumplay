@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.comcast.cim.x2", "com.directv.DTViPhone", "com.directv.mobile.ipad.navigator.production", "com.cablevision.rDVR", "com.crunchyroll.iphone", "CA.BELL.FIBREREMOTE", "com.verizon.ams.dvr", "com.canalplusdistrib.mycanal.prod", "com.timewarnercable.simulcast", "com.nfl.gamecenter", "com.netflix.Netflix" ); }; }

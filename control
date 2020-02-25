@@ -1,0 +1,9 @@
+Package: com.tonykraft.premiumplay
+Name: PremiumPlay
+Depends: mobilesubstrate
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: AirPlay support for apps that restrict it
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
+Section: Tweaks
